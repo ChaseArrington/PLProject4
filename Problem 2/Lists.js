@@ -1,6 +1,4 @@
-/**
- * Created by pcannata on 2/27/16.
- */
+
 "use strict";
 
 var list = function() {
